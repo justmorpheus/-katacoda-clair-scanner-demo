@@ -1,4 +1,4 @@
-# Setting up Clair server or using locally
+# Setting up Clair server or using locally.
 
 CoreOs Clair <https://github.com/coreos/clair>
 
