@@ -1,6 +1,6 @@
 {
-  "title": "Clair",
-  "description": "Setup Clair and scan images using clair-scanner-1",
+  "title": "Clair-Scanner Demo",
+  "description": "Setup Clair and scan images using clair-scanner by justmorpheus",
   "difficulty": "Beginner",
   "time": "10",
   "details": {
