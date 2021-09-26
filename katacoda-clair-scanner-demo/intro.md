@@ -4,4 +4,6 @@ Furthermore, we will be using [clair-scanner](https://github.com/arminc/clair-sc
 
 To scan locally or on the server, we will be using [clair-local-scan](https://github.com/arminc/clair-local-scan).
 
+Follow me at [twitter](https://twitter.com/justm0rph3u5) for more updates.
+
 Click `Start Scenario` button whenever you're ready
