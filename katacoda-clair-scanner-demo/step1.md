@@ -54,7 +54,7 @@ To specify this vulnerable image to be scanned, from the Ubuntu server, use the 
 
 `clair-scanner --ip $IP -r clair_report.json infoslack/dvwa`{{execute}}
 
-##Now our report is ready, we can read via 
+## Now our report is ready, we can read via 
 
 `cat clair_report.json`{{execute}}
 
