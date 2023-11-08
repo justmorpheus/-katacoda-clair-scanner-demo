@@ -48,7 +48,7 @@ To specify this vulnerable image to be scanned, from the Ubuntu server, use the 
 ## Run the following command to generate the report for vulnerable infoslack/dvwa image
 * This command will save the IP in the variable which is required for 
 
-`IP="$(ip addr show ens3 | awk '$1 == "inet" {gsub(/\/.*$/, "", $2); print $2}')"`{{execute}}
+`IP="$(ip addr show enp1s0 | awk '$1 == "inet" {gsub(/\/.*$/, "", $2); print $2}')"`{{execute}}
 
 * Run the clair-scanner, this will generate the report which will be saved in clair_report.json.
 
