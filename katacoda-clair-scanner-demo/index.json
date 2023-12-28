@@ -2,7 +2,7 @@
   "title": "Clair-Scanner Demo",
   "description": "Setup Clair and scan images using clair-scanner by justmorpheus",
   "difficulty": "Beginner",
-  "time": "10",
+  "time": "100",
   "details": {
     "steps": [
       {
